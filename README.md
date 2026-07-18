@@ -144,3 +144,6 @@ If a requested circuit isn't available for prediction, the API returns a `404` w
 ## 📄 License
 
 Personal / academic project. Feel free to adapt for coursework or learning purposes.
+Google Antigravity (AI)- For project guidance   
+Claude AI - For documentation 
+📧 Contact email id -thathachenchaiah506@gmail.com

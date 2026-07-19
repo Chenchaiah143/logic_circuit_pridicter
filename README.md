@@ -144,6 +144,14 @@ If a requested circuit isn't available for prediction, the API returns a `404` w
 ## 📄 License
 
 Personal / academic project. Feel free to adapt for coursework or learning purposes.
+## Reference 
 Google Antigravity (AI)- For project guidance   
 Claude AI - For documentation 
 📧 Contact email id -thathachenchaiah506@gmail.com
+
+## Summary
+🔌 Interactive Schematic - Toggle inputs and watch your circuit come alive
+A few more in the same style if you want options to pick from:
+🗂️ Circuit Explorer - Browse 14 built-in gates and combinational circuits
+📋 Live Truth Table - Watch your active input row highlight in real time
+🏆 Lab Challenges - Solve live puzzles by wiring the right inputs

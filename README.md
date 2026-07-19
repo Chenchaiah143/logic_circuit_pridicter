@@ -147,7 +147,9 @@ Personal / academic project. Feel free to adapt for coursework or learning purpo
 ## Reference 
 Google Antigravity (AI)- For project guidance   
 Claude AI - For documentation 
+
 📧 Contact email id -thathachenchaiah506@gmail.com
+
 Project link : https://chenchaiah143.github.io/logic_circuit_pridicter/
 ## Summary
 🔌 Interactive Schematic - Toggle inputs and watch your circuit come alive

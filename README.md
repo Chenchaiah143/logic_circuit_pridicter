@@ -154,6 +154,9 @@ Project link : https://chenchaiah143.github.io/logic_circuit_pridicter/
 ## Summary
 🔌 Interactive Schematic - Toggle inputs and watch your circuit come alive
 A few more in the same style if you want options to pick from:
+
 🗂️ Circuit Explorer - Browse 14 built-in gates and combinational circuits
+
 📋 Live Truth Table - Watch your active input row highlight in real time
+
 🏆 Lab Challenges - Solve live puzzles by wiring the right inputs
